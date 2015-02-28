@@ -12,7 +12,7 @@ var Game = new (function() {
       tweet = window.isWebApp,
       startedTutorial = false,
       grid,
-      sizes = [10,12,14,16],
+      sizes = [14,16,18,20],
       lastSize = 0,
       currentPuzzle = null,
       checkTOH = 0,
